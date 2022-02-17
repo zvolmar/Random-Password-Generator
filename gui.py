@@ -1,3 +1,5 @@
+#Credit goes to HFH-neocity for helping me bugfix, please go follow him at https://github.com/HFH-neocity
+
 import tkinter as tk
 from tkinter import *
 import random
